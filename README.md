@@ -27,9 +27,9 @@ I'm a passionate **Software Developer** specializing in **Microservices Architec
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    role: "Microservices & Full-Stack Developer",
-    location: "Your Location",
+    name: "Le Dinh Truong",
+    role: "Microservices & Software Developer",
+    location: "Ho Chi Minh",
     architecture: ["Microservices", "Event-Driven", "Serverless", "Cloud-Native"],
     currentFocus: "Building scalable distributed systems with Node.js and Go",
     passion: "Creating efficient, maintainable, and scalable software solutions"
